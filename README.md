@@ -9,7 +9,7 @@ An Augmented Reality (AR) project that uses **image tracking** to overlay intera
 
 ## 🛠️ Technologies Used
 - Unity (2020+)
-- AR Foundation / Vuforia Engine
+-  Vuforia Engine
 - Android Build Tools
 
 ## 📦 APK Download
